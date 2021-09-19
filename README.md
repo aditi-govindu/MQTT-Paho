@@ -1,6 +1,7 @@
+![Paho logo](https://wiki.eclipse.org/images/4/49/PahoHALF.png)
+
 # MQTT-Paho
 Use paho-python to display publishers and subscribers of temperature sensor readings
-![Use of MQTT broker] (https://miro.medium.com/max/2625/1*7MwXy5N4rx4mAxZ2KZrwJQ.png)
 
 # What is MQTT?
 MQTT or Message Queuing Telemetry Transport is a messaging protocol used in TCP/IP model. It has the following principles:
@@ -12,6 +13,7 @@ MQTT or Message Queuing Telemetry Transport is a messaging protocol used in TCP/
 * Traditional Client-Server architecture
 
 It is used in **Internet of Things** applications to publish-view real time sensor data. Facebook messenger, Instagram, AWS solar IoT projects etc. also use MQTT protocols
+![Use of MQTT broker](https://miro.medium.com/max/2625/1*7MwXy5N4rx4mAxZ2KZrwJQ.png)
 
 # About
 **publisher.py**
